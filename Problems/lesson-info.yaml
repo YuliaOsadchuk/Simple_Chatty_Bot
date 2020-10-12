@@ -21,3 +21,4 @@ content:
 - Printing only the longest line
 - Javadoc comment
 - The forgotten comments
+- Printing strings in the same order
