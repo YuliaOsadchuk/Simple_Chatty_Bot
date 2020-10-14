@@ -33,3 +33,4 @@ content:
 - Check prefix ignoring the case
 - Check burgs
 - Extracting a substring
+- Replacing 'a' with 'b'
