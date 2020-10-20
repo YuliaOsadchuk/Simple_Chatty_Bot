@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3787
+status: Failed
+feedback:
+  message: |
+    Failed test #3 of 7. Maybe you calculated in int but should in double?
+  time: Tue, 20 Oct 2020 15:17:50 UTC
+record: -1
