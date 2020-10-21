@@ -6,7 +6,7 @@
 > Marry
 #What a great name you have, Marry!
 Let me guess your age.
-5Enter remainders of dividing your age by 3, 5 and 7.
+6Say me remainders of dividing your age by 3, 5 and 7.
 > 1 0 5
 9Your age is 40; that's a good time to start programming!
 ANow I will prove to you that I can count to any number you want.
@@ -22,4 +22,13 @@
 8!
 9!
 10!
-Completed, have a nice day!
+'Let's test your programming knowledge.
+Why do we use methods?
+)1. To repeat a statement multiple times.
+:2. To decompose a program into several small subroutines.
+13. To determine the execution time of a program.
+,4. To interrupt the execution of a program.
+> 1
+Please, try again.
+> 2
+"Congratulations, have a nice day!
